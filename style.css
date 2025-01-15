@@ -422,7 +422,7 @@ main section {
   height: clamp(4.3rem, 8vh, 8rem);
   margin-top: 6px;
   margin-bottom: 5px;
-  filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.3));
+  filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.15));
 }
 .skill-logos h4 {
   font-size: 1.5rem;
